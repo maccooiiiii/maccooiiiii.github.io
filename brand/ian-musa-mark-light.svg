@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" width="180" height="180" role="img" aria-label="Ian Musa">
+  <rect width="180" height="180" rx="24" fill="#F4F5F6"/>
+  <circle cx="33.5" cy="58" r="8.5" fill="#0A0B0C"/>
+  <rect x="27" y="75" width="13" height="53" fill="#0A0B0C"/>
+  <polygon points="57,136 69.5,136 97.5,44 85,44" fill="#00B860"/>
+  <path d="M105.5 128V75M105.5 92a10.5 10.5 0 0 1 21 0V128M126.5 92a10.5 10.5 0 0 1 21 0V128" fill="none" stroke="#0A0B0C" stroke-width="13"/>
+</svg>

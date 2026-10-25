@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 180" width="700" height="180" role="img" aria-label="Ian Musa — Trusted data. Clear design. Quality assured.">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Archivo:wght@800&amp;family=IBM+Plex+Mono:wght@500&amp;display=block');
+    .name { font: 800 54px 'Archivo', 'Arial Black', Arial, sans-serif; letter-spacing: 1px; fill: #FFFFFF; }
+    .tag  { font: 500 13.5px 'IBM Plex Mono', 'Courier New', monospace; letter-spacing: 1.6px; fill: #A9AEB4; }
+    .dot  { fill: #39FF8C; }
+  </style>
+  <rect width="700" height="180" rx="24" fill="#0A0B0C"/>
+  <!-- mark -->
+  <circle cx="33.5" cy="58" r="8.5" fill="#FFFFFF"/>
+  <rect x="27" y="75" width="13" height="53" fill="#FFFFFF"/>
+  <polygon points="57,136 69.5,136 97.5,44 85,44" fill="#39FF8C"/>
+  <path d="M105.5 128V75M105.5 92a10.5 10.5 0 0 1 21 0V128M126.5 92a10.5 10.5 0 0 1 21 0V128" fill="none" stroke="#FFFFFF" stroke-width="13"/>
+  <!-- divider -->
+  <rect x="186" y="50" width="2" height="80" fill="#2A2D31"/>
+  <!-- wordmark -->
+  <text class="name" x="214" y="100">IAN MUSA<tspan class="dot">.</tspan></text>
+  <text class="tag" x="216" y="130">TRUSTED DATA · CLEAR DESIGN · QUALITY ASSURED</text>
+</svg>
